@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZPMMine_Example' do
+  pod 'ZPMMine', :path => '../'
+
+  target 'ZPMMine_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
