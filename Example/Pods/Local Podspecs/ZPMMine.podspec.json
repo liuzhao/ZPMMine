@@ -1,0 +1,22 @@
+{
+  "name": "ZPMMine",
+  "version": "0.1.0",
+  "summary": "A short description of ZPMMine.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/truend86@qq.com/ZPMMine",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "truend86@qq.com": "truend86@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/truend86@qq.com/ZPMMine.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZPMMine/Classes/**/*"
+}

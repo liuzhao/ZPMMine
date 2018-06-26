@@ -1,0 +1,16 @@
+PODS:
+  - ZPMMine (0.1.0)
+
+DEPENDENCIES:
+  - ZPMMine (from `../`)
+
+EXTERNAL SOURCES:
+  ZPMMine:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZPMMine: fad1df967c8d30c35aade893def3d17f4a979e81
+
+PODFILE CHECKSUM: e395494e74e8baba6ffd92d966e72f488716a82a
+
+COCOAPODS: 1.5.3

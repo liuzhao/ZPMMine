@@ -7,6 +7,7 @@
 //
 
 #import "ZPMViewController.h"
+#import "ZPMMineModel.h"
 
 @interface ZPMViewController ()
 

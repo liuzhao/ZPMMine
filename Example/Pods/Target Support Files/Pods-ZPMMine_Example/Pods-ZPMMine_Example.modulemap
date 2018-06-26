@@ -1,0 +1,6 @@
+framework module Pods_ZPMMine_Example {
+  umbrella header "Pods-ZPMMine_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
